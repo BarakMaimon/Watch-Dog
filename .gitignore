@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.out
+
+# Ignore library files
+*.so
+
+# Ignore log files
+*.txt
+
+# Ignore executable files
+*.out
+
+# Ignore object files
+*.o
+
+
